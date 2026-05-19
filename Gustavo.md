@@ -1,10 +1,11 @@
 
-Luis Gustavo Gomez Saucedo
-Ingenieria en Sistemas Computacionales 
-9veno cuatrimestre 
-Gustavo040508
+# Luis Gustavo Gomez Saucedo
+- **Carrera:** Ingenieria en Sistemas Computacionales 
+- **Semestre:** 9veno cuatrimestre 
+- **Usuario:** Gustavo040508
 
-Configurar SSH 
-Clonar repositorios con Git 
-Hcaer push desde terminar 
+#Competencias que aprendi
+- Configurar SSH 
+- Clonar repositorios con Git 
+- Hcaer push desde terminar 
 
